@@ -115,17 +115,7 @@ body {
 
 }
 
-.hero-avatar {
-    width: 389px;
-    height: 389px;
-    color: white;
-    border-radius: 50%;
-    background-image: url('https://avatars0.githubusercontent.com/u/59134027?s=96&v=4');
-    background-repeat: no-repeat;
-    background-position: center top -40px;
-    border: 13px solid white;
 
-}
 
 /* features */
 
